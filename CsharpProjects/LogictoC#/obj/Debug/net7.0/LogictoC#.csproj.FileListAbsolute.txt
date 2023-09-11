@@ -1,0 +1,14 @@
+F:\Projects\C#\CsharpProjects\LogictoC#\bin\Debug\net7.0\LogictoC#.exe
+F:\Projects\C#\CsharpProjects\LogictoC#\bin\Debug\net7.0\LogictoC#.deps.json
+F:\Projects\C#\CsharpProjects\LogictoC#\bin\Debug\net7.0\LogictoC#.runtimeconfig.json
+F:\Projects\C#\CsharpProjects\LogictoC#\bin\Debug\net7.0\LogictoC#.dll
+F:\Projects\C#\CsharpProjects\LogictoC#\bin\Debug\net7.0\LogictoC#.pdb
+F:\Projects\C#\CsharpProjects\LogictoC#\obj\Debug\net7.0\LogictoC#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\CsharpProjects\LogictoC#\obj\Debug\net7.0\LogictoC#.AssemblyInfoInputs.cache
+F:\Projects\C#\CsharpProjects\LogictoC#\obj\Debug\net7.0\LogictoC#.AssemblyInfo.cs
+F:\Projects\C#\CsharpProjects\LogictoC#\obj\Debug\net7.0\LogictoC#.csproj.CoreCompileInputs.cache
+F:\Projects\C#\CsharpProjects\LogictoC#\obj\Debug\net7.0\LogictoC#.dll
+F:\Projects\C#\CsharpProjects\LogictoC#\obj\Debug\net7.0\refint\LogictoC#.dll
+F:\Projects\C#\CsharpProjects\LogictoC#\obj\Debug\net7.0\LogictoC#.pdb
+F:\Projects\C#\CsharpProjects\LogictoC#\obj\Debug\net7.0\LogictoC#.genruntimeconfig.cache
+F:\Projects\C#\CsharpProjects\LogictoC#\obj\Debug\net7.0\ref\LogictoC#.dll

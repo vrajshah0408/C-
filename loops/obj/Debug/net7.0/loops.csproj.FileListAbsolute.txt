@@ -1,0 +1,14 @@
+F:\Projects\C#\loops\bin\Debug\net7.0\loops.exe
+F:\Projects\C#\loops\bin\Debug\net7.0\loops.deps.json
+F:\Projects\C#\loops\bin\Debug\net7.0\loops.runtimeconfig.json
+F:\Projects\C#\loops\bin\Debug\net7.0\loops.dll
+F:\Projects\C#\loops\bin\Debug\net7.0\loops.pdb
+F:\Projects\C#\loops\obj\Debug\net7.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\loops\obj\Debug\net7.0\loops.AssemblyInfoInputs.cache
+F:\Projects\C#\loops\obj\Debug\net7.0\loops.AssemblyInfo.cs
+F:\Projects\C#\loops\obj\Debug\net7.0\loops.csproj.CoreCompileInputs.cache
+F:\Projects\C#\loops\obj\Debug\net7.0\loops.dll
+F:\Projects\C#\loops\obj\Debug\net7.0\refint\loops.dll
+F:\Projects\C#\loops\obj\Debug\net7.0\loops.pdb
+F:\Projects\C#\loops\obj\Debug\net7.0\loops.genruntimeconfig.cache
+F:\Projects\C#\loops\obj\Debug\net7.0\ref\loops.dll

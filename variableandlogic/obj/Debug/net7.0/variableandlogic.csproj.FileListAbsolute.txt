@@ -1,0 +1,14 @@
+F:\Projects\C#\variableandlogic\bin\Debug\net7.0\variableandlogic.exe
+F:\Projects\C#\variableandlogic\bin\Debug\net7.0\variableandlogic.deps.json
+F:\Projects\C#\variableandlogic\bin\Debug\net7.0\variableandlogic.runtimeconfig.json
+F:\Projects\C#\variableandlogic\bin\Debug\net7.0\variableandlogic.dll
+F:\Projects\C#\variableandlogic\bin\Debug\net7.0\variableandlogic.pdb
+F:\Projects\C#\variableandlogic\obj\Debug\net7.0\variableandlogic.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\variableandlogic\obj\Debug\net7.0\variableandlogic.AssemblyInfoInputs.cache
+F:\Projects\C#\variableandlogic\obj\Debug\net7.0\variableandlogic.AssemblyInfo.cs
+F:\Projects\C#\variableandlogic\obj\Debug\net7.0\variableandlogic.csproj.CoreCompileInputs.cache
+F:\Projects\C#\variableandlogic\obj\Debug\net7.0\variableandlogic.dll
+F:\Projects\C#\variableandlogic\obj\Debug\net7.0\refint\variableandlogic.dll
+F:\Projects\C#\variableandlogic\obj\Debug\net7.0\variableandlogic.pdb
+F:\Projects\C#\variableandlogic\obj\Debug\net7.0\variableandlogic.genruntimeconfig.cache
+F:\Projects\C#\variableandlogic\obj\Debug\net7.0\ref\variableandlogic.dll

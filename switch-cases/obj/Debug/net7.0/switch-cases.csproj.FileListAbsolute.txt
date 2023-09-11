@@ -1,0 +1,14 @@
+F:\Projects\C#\switch-cases\bin\Debug\net7.0\switch-cases.exe
+F:\Projects\C#\switch-cases\bin\Debug\net7.0\switch-cases.deps.json
+F:\Projects\C#\switch-cases\bin\Debug\net7.0\switch-cases.runtimeconfig.json
+F:\Projects\C#\switch-cases\bin\Debug\net7.0\switch-cases.dll
+F:\Projects\C#\switch-cases\bin\Debug\net7.0\switch-cases.pdb
+F:\Projects\C#\switch-cases\obj\Debug\net7.0\switch-cases.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\switch-cases\obj\Debug\net7.0\switch-cases.AssemblyInfoInputs.cache
+F:\Projects\C#\switch-cases\obj\Debug\net7.0\switch-cases.AssemblyInfo.cs
+F:\Projects\C#\switch-cases\obj\Debug\net7.0\switch-cases.csproj.CoreCompileInputs.cache
+F:\Projects\C#\switch-cases\obj\Debug\net7.0\switch-cases.dll
+F:\Projects\C#\switch-cases\obj\Debug\net7.0\refint\switch-cases.dll
+F:\Projects\C#\switch-cases\obj\Debug\net7.0\switch-cases.pdb
+F:\Projects\C#\switch-cases\obj\Debug\net7.0\switch-cases.genruntimeconfig.cache
+F:\Projects\C#\switch-cases\obj\Debug\net7.0\ref\switch-cases.dll
